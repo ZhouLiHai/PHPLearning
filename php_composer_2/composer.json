@@ -1,0 +1,17 @@
+{
+    "name": "zhoulihai/php_composer_2",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "~5.0",
+        "php": ">=5.4.0",
+        "phpunit/phpunit": "~4.3",
+        "zhoulihai/php_composer_2": "dev-master"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4" : {
+            "LaravelAcademy\\UrlScanner\\": "src/"
+        }
+    }
+}

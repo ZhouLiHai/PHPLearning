@@ -1,0 +1,5 @@
+{
+    "require": {
+        "zhoulihai/php_composer_2": "dev-master"
+    }
+}
