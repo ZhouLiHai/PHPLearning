@@ -1,8 +1,8 @@
 <?php
 
-use App\Ios\Db;
-
 namespace App\Ios;
+
+use App\Ios\Db;
 /**
  *
  */

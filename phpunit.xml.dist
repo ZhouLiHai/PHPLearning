@@ -5,6 +5,7 @@
             <directory suffix="Test.php">php_unit_02/Tests</directory>
             <directory suffix="Test.php">php_unit_04/Tests</directory>
             <directory suffix="Test.php">php_unit_07/Tests</directory>
+            <directory suffix="Test.php">php_unit_reflection/Tests</directory>
         </testsuite>
     </testsuites>
     <filter>
